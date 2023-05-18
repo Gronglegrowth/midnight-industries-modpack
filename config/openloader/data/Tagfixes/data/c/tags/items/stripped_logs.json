@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "values": [
+        "terrestria:stripped_redwood_log",
+        "terrestria:stripped_hemlock_log",
+        "terrestria:stripped_rubber_log",
+        "terrestria:stripped_cypress_log",
+        "terrestria:stripped_willow_log",
+        "terrestria:stripped_japanese_maple_log",
+        "terrestria:stripped_rainbow_eucalyptus_log",
+        "terrestria:stripped_redwood_quarter_log",
+        "terrestria:stripped_hemlock_quarter_log",
+        "terrestria:stripped_cypress_quarter_log",
+        "terrestria:stripped_rainbow_eucalyptus_quarter_log",
+        "bewitchment:stripped_juniper_log",
+        "bewitchment:stripped_cypress_log",
+        "bewitchment:stripped_elder_log",
+        "bewitchment:stripped_dragons_blood_log",
+        "techreborn:rubber_log_stripped",
+        "ad_astra:stripped_glacian_log"
+    ]
+}

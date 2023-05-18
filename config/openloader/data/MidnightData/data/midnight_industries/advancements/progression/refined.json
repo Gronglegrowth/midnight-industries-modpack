@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "techreborn:refined_iron_plate"
+    },
+    "title": "A Refined Taste",
+    "description": "Heat iron with bulk blasting to refine it.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "midnight_industries:progression/press",
+  "criteria": {
+    "get_plate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "techreborn:refined_iron_plate"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

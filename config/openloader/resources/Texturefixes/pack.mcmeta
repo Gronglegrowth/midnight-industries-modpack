@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": "Fixes hideous textures because we're not in 1.12 any more"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:tick",
+            "conditions": {}
+        }
+    },
+    "requirements": [
+        ["0"]
+    ],
+    "rewards": {
+        "function": "midnight_industries:vampirism"
+    }
+}
