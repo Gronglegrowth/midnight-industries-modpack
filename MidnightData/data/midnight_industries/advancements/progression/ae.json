@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "ae2:item_storage_cell_4k"
+    },
+    "title": "Storage Fit for Lords",
+    "description": "With a source of electricity secured and a suitable metal, you can begin storing things digitally. Make a drive.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "midnight_industries:progression/electric",
+  "criteria": {
+    "build_drive": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ae2:drive"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
